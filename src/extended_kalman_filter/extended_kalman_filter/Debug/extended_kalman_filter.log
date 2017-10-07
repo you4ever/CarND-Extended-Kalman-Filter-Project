@@ -1,0 +1,12 @@
+﻿  tools.cpp
+d:\python\self_driving_car\carnd-extended-kalman-filter-project\src\tools.cpp(28): error C2084: function 'Eigen::MatrixXd Tools::CalculateJacobian(const Eigen::VectorXd &)' already has a body
+  d:\python\self_driving_car\carnd-extended-kalman-filter-project\src\tools.cpp(20): note: see previous definition of 'CalculateJacobian'
+d:\python\self_driving_car\carnd-extended-kalman-filter-project\src\tools.cpp(32): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+d:\python\self_driving_car\carnd-extended-kalman-filter-project\src\tools.cpp(33): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+d:\python\self_driving_car\carnd-extended-kalman-filter-project\src\tools.cpp(34): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+d:\python\self_driving_car\carnd-extended-kalman-filter-project\src\tools.cpp(35): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+  main.cpp
+d:\python\self_driving_car\carnd-extended-kalman-filter-project\src\main.cpp(1): fatal error C1083: Cannot open include file: 'uWS/uWS.h': No such file or directory
+  kalman_filter.cpp
+  FusionEKF.cpp
+  Generating Code...
